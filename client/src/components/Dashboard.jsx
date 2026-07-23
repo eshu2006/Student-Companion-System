@@ -23,7 +23,7 @@ export default function Dashboard() {
     name: '',
     email: '',
     branch: '',
-    rollNumber: '',
+    Roll Number: '',
     year: '',
   });
   const [showSuccessPopup, setShowSuccessPopup] = useState(false);
